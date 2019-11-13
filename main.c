@@ -8,6 +8,6 @@ void function()
 int main()
 {
 	function();
-	
+	//fealture
 	return 0;
 }
